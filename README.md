@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sisypheus
 - 👀 I’m interested in anyhting tech related
-- 🌱 I’m currently learning Web Development and Computer Science
+- 🌱 I’m currently learning Web Development and Computer Science (go and a lot of rust for the moment 👀)
 
 <!---
 sisypheus/sisypheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
