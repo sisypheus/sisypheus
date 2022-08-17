@@ -20,10 +20,10 @@ I'm currently working in Rust & Go 🦀
   <br>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=babble-website">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=artnet">
-     <br>
-     <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=rust_cms">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=blog">
+<p align='center'>
+  <a href="https://github.com/sisypheus/babble-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=babble-website&theme=dracula&show_icons=true"></a>
+  <a href="https://github.com/sisypheus/artnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=artnet&theme=dracula&show_icons=true"></a>
+  <a href="https://github.com/sisypheus/rust_cms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=rust_cms&theme=dracula&show_icons=true"></a>
+  <a href="https://github.com/sisypheus/blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=blog&theme=dracula&show_icons=true"></a>
+</p>
   
