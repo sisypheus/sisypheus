@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Theo Poette**,  a 🇫🇷   full-stack developer, and student @ Epitech. **Skilled in JS/(TS ❤️) ReactJS, Angular, NodeJS (Express, Nest), MongoDB, PostreSQL, RESTful API’s, Typescript**.
+I am **Theo Poette**,  a 🇫🇷   full-stack developer, and student @ Epitech. **Skilled in C/C++ Javascript/(Typescript ❤️) ReactJS, Angular, NodeJS (Express, Nest), MongoDB, PostreSQL, RESTful API’s, Docker and Linux servers**.
 
 Vist my **[Blog](https://blog.theopoette.me) - [Website](https://theopoette.me)**
 
