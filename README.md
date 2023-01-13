@@ -25,7 +25,7 @@ I'm building my own interpreter for my [language](https://github.com/sisypheus/c
   <a href="https://github.com/sisypheus/babble-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=babble-website&theme=dracula&show_icons=true"></a>
   <a href="https://github.com/sisypheus/artnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=artnet&theme=dracula&show_icons=true"></a>
   <a href="https://github.com/sisypheus/rust_cms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=rust_cms&theme=dracula&show_icons=true"></a>
-  <a href="https://github.com/sisypheus/blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=blog&theme=dracula&show_icons=true"></a>
+  <a href="https://github.com/sisypheus/blogv2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=blog&theme=dracula&show_icons=true"></a>
   <a href="https://github.com/sisypheus/crust"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sisypheus&repo=crust&theme=kacho_ga&show_icons=true"></a>
 </p>
   
