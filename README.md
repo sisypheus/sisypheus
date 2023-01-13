@@ -9,8 +9,8 @@ I made : **[Babble](https://babble.fr)**
 I'm currently working in Rust & Go 🦀
 I'm building my own interpreter for my [language](https://github.com/sisypheus/crust)
 
---[![Linkedin: Theo](https://img.shields.io/badge/-Theo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theo-poette/)](https://www.linkedin.com/in/theo-poette/)
---[![GitHub Theo](https://img.shields.io/github/followers/sisypheus?label=follow&style=social)](https://github.com/sisypheus)
+[![Linkedin: Theo](https://img.shields.io/badge/-Theo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theo-poette/)](https://www.linkedin.com/in/theo-poette/)
+[![GitHub Theo](https://img.shields.io/github/followers/sisypheus?label=follow&style=social)](https://github.com/sisypheus)
 
 
 <p align="center">
